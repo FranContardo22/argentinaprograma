@@ -1,0 +1,13 @@
+Respuestas Práctico N°0:
+1.	a. El prorama devuelve un valor de 8.
+	b. El programa devuelve un valor de 204.
+
+2.	a. El área del rectángulo sería de 15cm.
+	b. El área del rectángulo sería de 66.25cm.
+
+3.	a. 50 F equivalen a 10 C.
+	b. 75 F equivalen a 23.88 C.
+
+4.	a. El promedio es 7.
+	b. El promedio es -4.33.
+	c. El promedio es de 0.26.
